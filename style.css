@@ -14,6 +14,16 @@
 }
 
 /* random */
+.contact-text li {
+    margin-left: 240px;
+
+}
+
+.contact-text p {
+    margin-left: 240px;
+
+}
+
 h1 {
     color: var(--heading-color);
 }
