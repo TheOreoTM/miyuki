@@ -41,9 +41,10 @@
 
 .videoDiv
 {
-    width: 70%; /*or whatever % you prefer*/
+    width: 100%; /*or whatever % you prefer*/
     margin: 0 auto;
     display: block;
+    text-align: center;
 }
 
 .home-text h4, h3 {
